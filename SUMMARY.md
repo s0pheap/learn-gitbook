@@ -1,5 +1,3 @@
 # Summary
 
-* [English](en/SUMMARY.md)
-* [Spanish](es/SUMMARY.md)
-* [French](fr/SUMMARY.md)
+- [hello world](hello-world.md)
